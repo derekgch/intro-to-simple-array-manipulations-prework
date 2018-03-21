@@ -20,6 +20,6 @@ def pop_with_args (array)
 end
 
 
-def using_push (array, element)
+def using_shift (array, element)
 
 end
