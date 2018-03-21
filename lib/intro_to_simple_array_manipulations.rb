@@ -16,10 +16,7 @@ end
 
 
 def pop_with_args (array)
-  array1 =[]
-  array1 << array.pop(2)
-  return array1
-
+  array.pop(2)
 end
 
 
